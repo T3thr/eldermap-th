@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@types/bcrypt": "^5.0.2",
-    "@types/firebase": "^3.2.3",
     "@types/jquery": "^3.5.32",
     "@types/lodash": "^4.17.16",
     "autoprefixer": "^10.4.20",
